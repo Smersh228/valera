@@ -1,0 +1,54 @@
+.sueta {
+
+ color: #aa98b8;
+ font-size: 25px;
+ border: 5px dotted black;
+ width: 150px;
+ margin: 30px 850px 10px;
+ cursor: pointer;
+ display:flex;
+}
+
+body {
+
+
+background-color: #695578;
+
+}
+
+.sueta:hover {
+   color: black;
+    
+}
+
+.sueta:active {
+
+background-color: green    ;
+
+}
+
+img {
+ 
+ height: 60px;
+ width: 60px;
+ margin-left: 10px;
+ margin-top: 10px;
+}
+
+
+p {
+text-align: center;
+margin-left: 50px;
+
+
+}
+
+h1 {
+    margin-left: 810px;
+
+
+}
+
+.s {
+    margin-left: 810px;
+}
