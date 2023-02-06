@@ -23,11 +23,11 @@ valera.remove()
 
 }
 
-if (e > 12) {
+//if (e > 12) {
 
-    document.body.remove()
+//    document.body.remove()
     
-}
+//}
 
 
 
